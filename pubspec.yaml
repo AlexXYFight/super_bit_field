@@ -1,0 +1,15 @@
+name: super_bit_field
+description: A bit field code generator base on super_annotation for dart.
+version: 0.0.1
+repository: https://github.com/AlexXYFight/super_bit_field.git
+
+environment:
+  sdk: ^3.2.0
+
+dependencies:
+  super_annotations: ^0.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.24.0
+  build_runner: ^2.2.0

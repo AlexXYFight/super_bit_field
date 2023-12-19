@@ -1,0 +1,15 @@
+name: super_bit_field_example
+
+environment:
+  sdk: ^3.2.0
+
+dependencies:
+  super_bit_field:
+    path: ../
+  super_annotations: ^0.8.0
+
+dev_dependencies:
+  build_runner: ^2.0.5
+  test: ^1.24.0
+
+
