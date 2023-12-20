@@ -1,4 +1,3 @@
-
 library;
 
 export 'src/bit_field.super.dart';
